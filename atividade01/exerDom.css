@@ -1,0 +1,18 @@
+body{
+background-color: rgb(218, 255, 255); 
+}
+div{
+    background-color: rgb(113, 180, 180);
+    padding: 20px;
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   border: solid 10px rgb(52, 99, 99);
+}
+h1{
+    padding-bottom: 15px;
+}
+input{
+    background-color: rgb(149, 196, 189);
+    color: #3f5948;
+    
+}
